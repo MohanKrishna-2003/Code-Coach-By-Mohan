@@ -1,0 +1,6 @@
+8. Print the total number of odd and even digits in the given number.
+  
+Ex.  Input  :  1234567
+
+    Output  :  ODD 4
+               EVEN 3
