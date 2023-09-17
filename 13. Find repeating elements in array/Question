@@ -1,0 +1,5 @@
+13. Find the duplicate elements in array.
+
+Input :  [18, 18, 19, 19, 2, 3, 19, 19]
+
+Output : 18, 19
