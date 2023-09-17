@@ -1,0 +1,12 @@
+12. Print all the possible combinations of the given string.
+
+Input : 
+XYZ
+
+Output : 
+XYZ
+XZY
+YXZ
+YZX
+ZXY
+ZYX
