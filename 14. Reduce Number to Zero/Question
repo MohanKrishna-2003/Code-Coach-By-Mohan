@@ -1,0 +1,14 @@
+14. Find the count by reducing the number to zero
+
+Input:
+10
+
+Output:
+5
+
+Conditions:
+
+• Check whether the given number is prime or not.
+• If the number is prime then decrement the number by 1. • Otherwise, find the greatest prime number(GPN) which replaces the number.
+• Then replace the number by GPN. Repeat the steps until the number became zero and count the number of steps taken.
+• At last, we have the output to reduce the number to zero
