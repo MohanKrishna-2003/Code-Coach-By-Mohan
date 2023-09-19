@@ -1,0 +1,4 @@
+21. Run Length Encoding print the output for the given input.
+
+Input: "a2b2c1"
+Output : "aabbc"
