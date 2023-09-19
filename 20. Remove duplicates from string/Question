@@ -1,0 +1,4 @@
+20. Remove all the duplicate characters from the string.
+
+Input : "bcabc"
+Output : "abc"
