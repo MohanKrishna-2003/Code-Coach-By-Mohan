@@ -1,0 +1,7 @@
+16. Given ten digit number sort that number.
+
+Input : 
+1234567890
+
+Output:
+0123456789
