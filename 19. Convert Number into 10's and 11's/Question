@@ -1,0 +1,4 @@
+19. Convert the give number into 10's and 11's in which resulting their sum leads to actual number.
+
+Input : 32
+Output : 11+11+10 = 32
