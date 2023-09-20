@@ -1,0 +1,5 @@
+26. Check whether the string2 contains in string1. If it contains return the position of the string2 in string1.
+
+Input : "Mohankrishna"  "ris"
+
+Output : 7 position
