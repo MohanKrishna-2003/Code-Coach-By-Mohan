@@ -1,0 +1,7 @@
+32. REMOVING DUPLICATES IN AN SORTED ARRAY :
+
+i/p : [1, 2, 2, 3, 3, 3, 4, 5, 5, 6]
+o/p : [1, 2, 3, 4, 5, 6]
+
+TIME COMPLEXITY : O(n)
+SPACE COMPLEXITY : O(1)
