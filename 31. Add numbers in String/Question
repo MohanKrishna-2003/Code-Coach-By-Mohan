@@ -1,0 +1,6 @@
+31. ADD THE NUMBERS IN AN STRING :
+
+i/p : "1ab40b3"
+o/p : 44
+
+TIME COMPLEXITY : O(n)
