@@ -1,0 +1,9 @@
+35. checking the strings are anagrams or not.
+An anagram is nothing but same letters in two strings but differenct meanings.
+
+Input : 
+Silent 
+Listen
+
+Output :
+The given strings are anagrams
