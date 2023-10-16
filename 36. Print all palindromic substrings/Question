@@ -1,0 +1,11 @@
+36. Print the all palindromic substrings for the given string.
+
+time comlexity : o(n^3)
+for better optimization we can use manacher's algorithm.
+
+Input :
+naman
+
+Output :
+ama
+naman
