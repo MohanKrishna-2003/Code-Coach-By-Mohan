@@ -1,0 +1,6 @@
+40. Given a string, remove the vowels from the string and print thestring without vowels.
+
+Example:
+
+Input :what is your name ?
+Output : wht s yr nm ?
